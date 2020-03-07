@@ -2,6 +2,8 @@
 
 # OUTPUTS --> answer safe or not --> boolean
 
+# analyze speed 
+
 
 def unsafe?(speed)
 if speed ==  40  60 == true
