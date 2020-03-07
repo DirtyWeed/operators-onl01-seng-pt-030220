@@ -3,7 +3,7 @@
 # OUTPUTS --> answer safe or not --> boolean
 
 # analyze speed
-#
+# if speed > 60  say true
 #
 #
 #
