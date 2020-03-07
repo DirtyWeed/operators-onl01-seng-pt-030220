@@ -1,13 +1,10 @@
 # INPUTS --> speed --> number (integer)
-
 # OUTPUTS --> answer safe or not --> boolean
 
 # analyze speed
-# if speed > 60  say true
-#
-#
-#
-#
+# if speed > 60 or speed < 40 then say true
+# otherwise say false 
+
 
 
 def unsafe?(speed)
