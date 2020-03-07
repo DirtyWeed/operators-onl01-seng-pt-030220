@@ -16,15 +16,8 @@ def unsafe?(speed)
 end
 
 
-if (ask true or false question)
-  #code which runs if true
-else
-  #code if it doesnt
-end
-
-
 def not_safe?(speed)
-	
+	speed == < 40 || speed > 60 ? true : false
 end
 	
 
